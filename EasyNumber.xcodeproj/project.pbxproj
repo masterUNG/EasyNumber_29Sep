@@ -12,6 +12,13 @@
 		C474AD6C215F68A500A09B96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C474AD6A215F68A500A09B96 /* Main.storyboard */; };
 		C474AD6E215F68A600A09B96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C474AD6D215F68A600A09B96 /* Assets.xcassets */; };
 		C474AD71215F68A600A09B96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C474AD6F215F68A600A09B96 /* LaunchScreen.storyboard */; };
+		C474AD79215F696600A09B96 /* pop-zebra-754186-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C474AD78215F696500A09B96 /* pop-zebra-754186-unsplash.jpg */; };
+		C474AD7D215F6E9C00A09B96 /* baseline_add_circle_black_48pt_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C474AD7A215F6E9C00A09B96 /* baseline_add_circle_black_48pt_2x.png */; };
+		C474AD7E215F6E9C00A09B96 /* baseline_add_circle_black_48pt_1x.png in Resources */ = {isa = PBXBuildFile; fileRef = C474AD7B215F6E9C00A09B96 /* baseline_add_circle_black_48pt_1x.png */; };
+		C474AD7F215F6E9C00A09B96 /* baseline_add_circle_black_48pt_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C474AD7C215F6E9C00A09B96 /* baseline_add_circle_black_48pt_3x.png */; };
+		C474AD83215F6EC400A09B96 /* baseline_remove_circle_black_48pt_1x.png in Resources */ = {isa = PBXBuildFile; fileRef = C474AD80215F6EC400A09B96 /* baseline_remove_circle_black_48pt_1x.png */; };
+		C474AD84215F6EC400A09B96 /* baseline_remove_circle_black_48pt_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C474AD81215F6EC400A09B96 /* baseline_remove_circle_black_48pt_2x.png */; };
+		C474AD85215F6EC400A09B96 /* baseline_remove_circle_black_48pt_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C474AD82215F6EC400A09B96 /* baseline_remove_circle_black_48pt_3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		C474AD6D215F68A600A09B96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C474AD70215F68A600A09B96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C474AD72215F68A600A09B96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C474AD78215F696500A09B96 /* pop-zebra-754186-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pop-zebra-754186-unsplash.jpg"; sourceTree = "<group>"; };
+		C474AD7A215F6E9C00A09B96 /* baseline_add_circle_black_48pt_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baseline_add_circle_black_48pt_2x.png; sourceTree = "<group>"; };
+		C474AD7B215F6E9C00A09B96 /* baseline_add_circle_black_48pt_1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baseline_add_circle_black_48pt_1x.png; sourceTree = "<group>"; };
+		C474AD7C215F6E9C00A09B96 /* baseline_add_circle_black_48pt_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baseline_add_circle_black_48pt_3x.png; sourceTree = "<group>"; };
+		C474AD80215F6EC400A09B96 /* baseline_remove_circle_black_48pt_1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baseline_remove_circle_black_48pt_1x.png; sourceTree = "<group>"; };
+		C474AD81215F6EC400A09B96 /* baseline_remove_circle_black_48pt_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baseline_remove_circle_black_48pt_2x.png; sourceTree = "<group>"; };
+		C474AD82215F6EC400A09B96 /* baseline_remove_circle_black_48pt_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = baseline_remove_circle_black_48pt_3x.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +69,13 @@
 			isa = PBXGroup;
 			children = (
 				C474AD66215F68A500A09B96 /* AppDelegate.swift */,
+				C474AD7B215F6E9C00A09B96 /* baseline_add_circle_black_48pt_1x.png */,
+				C474AD7A215F6E9C00A09B96 /* baseline_add_circle_black_48pt_2x.png */,
+				C474AD80215F6EC400A09B96 /* baseline_remove_circle_black_48pt_1x.png */,
+				C474AD81215F6EC400A09B96 /* baseline_remove_circle_black_48pt_2x.png */,
+				C474AD82215F6EC400A09B96 /* baseline_remove_circle_black_48pt_3x.png */,
+				C474AD7C215F6E9C00A09B96 /* baseline_add_circle_black_48pt_3x.png */,
+				C474AD78215F696500A09B96 /* pop-zebra-754186-unsplash.jpg */,
 				C474AD68215F68A500A09B96 /* ViewController.swift */,
 				C474AD6A215F68A500A09B96 /* Main.storyboard */,
 				C474AD6D215F68A600A09B96 /* Assets.xcassets */,
@@ -123,8 +144,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				C474AD71215F68A600A09B96 /* LaunchScreen.storyboard in Resources */,
+				C474AD85215F6EC400A09B96 /* baseline_remove_circle_black_48pt_3x.png in Resources */,
+				C474AD84215F6EC400A09B96 /* baseline_remove_circle_black_48pt_2x.png in Resources */,
 				C474AD6E215F68A600A09B96 /* Assets.xcassets in Resources */,
 				C474AD6C215F68A500A09B96 /* Main.storyboard in Resources */,
+				C474AD7E215F6E9C00A09B96 /* baseline_add_circle_black_48pt_1x.png in Resources */,
+				C474AD7F215F6E9C00A09B96 /* baseline_add_circle_black_48pt_3x.png in Resources */,
+				C474AD7D215F6E9C00A09B96 /* baseline_add_circle_black_48pt_2x.png in Resources */,
+				C474AD79215F696600A09B96 /* pop-zebra-754186-unsplash.jpg in Resources */,
+				C474AD83215F6EC400A09B96 /* baseline_remove_circle_black_48pt_1x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
